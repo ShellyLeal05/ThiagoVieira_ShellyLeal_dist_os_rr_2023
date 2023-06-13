@@ -3,13 +3,13 @@ Analisando o Sistema Operacional Arch Linux
 
 Desenvolvido por [Thiago Vieira](https://github.com/MustPlay) e [Shelly Leal](https://github.com/ShellyLeal05)
 <div>
-  <img align="center" height "180em" src="https://user-images.githubusercontent.com/94469543/235271614-650c619b-1ee1-49bc-9dd9-2aa1f768d13d.png" width="350"/>
+  <img align="center" height "180em" src="https://github.com/ShellyLeal05/ThiagoVieira_ShellyLeal_dist_os_rr_2023/assets/94469543/ed8ca022-3bbe-454e-a615-5d6e78f55571" width="500"/>
 <div>
   
  ## Índice
 
-- [Objetivo](#Objetivo
-- [Artigo] (#Artigo)
+- [Objetivo](#Objetivo)
+- [Artigo](#Artigo)
 - [Apresentação](#Apresentação)
 - [Referências](#Referências)
 
@@ -24,7 +24,7 @@ Desenvolvido por [Thiago Vieira](https://github.com/MustPlay) e [Shelly Leal](ht
   
 ## Artigo
 
-O artigo realizado pode ser visto acessando o link 
+O artigo realizado pode ser visto acessando o [link](https://docs.google.com/document/d/1q3NGMee8oTCyl38mwx_ksIEQijp2CEc7/edit?usp=sharing&ouid=115262413352017542652&rtpof=true&sd=true)
 
 ## Apresentação 
 
@@ -36,6 +36,24 @@ Nosso slide pode ser visto no [Canva](https://www.canva.com/design/DAFlY5rabc4/2
 
 - Documentação da Distribuição [Arch Wiki](https://wiki.archlinux.org/)
 - Tutorial de Instalação com o script archinstall [Diolinux](https://www.youtube.com/watch?v=_nDqRToEtpo)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
