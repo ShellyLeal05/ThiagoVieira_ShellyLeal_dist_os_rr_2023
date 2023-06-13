@@ -20,6 +20,85 @@ Desenvolvido por [Thiago Vieira](https://github.com/MustPlay) e [Shelly Leal](ht
 - Apresentar uma Visão Geral do Arch Linux;
 - Tutorial de Instalação da Distribuição;
 
+[Video 1](https://github.com/ShellyLeal05/ThiagoVieira_ShellyLeal_dist_os_rr_2023/assets/94469543/d0ba00ed-20d7-40fb-be1c-bcc21247442f)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+[Video 2](https://github.com/ShellyLeal05/ThiagoVieira_ShellyLeal_dist_os_rr_2023/assets/94469543/04c05e51-881f-4c8d-bf42-449a2544e051)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ [Video 3](https://github.com/ShellyLeal05/ThiagoVieira_ShellyLeal_dist_os_rr_2023/assets/94469543/f70dc1ea-b088-4f39-a519-7dd4bcb0c165)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ [Video 4](https://github.com/ShellyLeal05/ThiagoVieira_ShellyLeal_dist_os_rr_2023/assets/94469543/74616f25-1c99-49a4-bc99-3053cfca875b)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 ----
   
 ## Artigo
